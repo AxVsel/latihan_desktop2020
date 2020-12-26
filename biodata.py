@@ -1,0 +1,5 @@
+print("====biodata====")
+print("Nama     : MUH. YAUMIL AKSAH HAMID  ")
+print("Asal     : SULAWESI TENGAH,Kab banggai laut  ")
+print("Jurusan  : Informatika  ")
+print("Kelas    : 20-s1IF-03  ")
